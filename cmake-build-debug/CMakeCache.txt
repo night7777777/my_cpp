@@ -107,7 +107,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 CMAKE_GNUtoMS:BOOL=OFF
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/my_cpp
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/cmake_clion_conan_template
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/ld.exe
@@ -151,7 +151,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=my_cpp
+CMAKE_PROJECT_NAME:STATIC=cmake_clion_conan_template
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/ranlib.exe
@@ -233,14 +233,17 @@ CMAKE_STRIP:FILEPATH=C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/str
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Value Computed by CMake
-my_cpp_BINARY_DIR:STATIC=C:/Users/w1605/CLionProjects/my_cpp/cmake-build-debug
+//Path to a program.
+CONAN_CMD:FILEPATH=CONAN_CMD-NOTFOUND
 
 //Value Computed by CMake
-my_cpp_IS_TOP_LEVEL:STATIC=ON
+cmake_clion_conan_template_BINARY_DIR:STATIC=C:/Users/w1605/CLionProjects/my_cpp/cmake-build-debug
 
 //Value Computed by CMake
-my_cpp_SOURCE_DIR:STATIC=C:/Users/w1605/CLionProjects/my_cpp
+cmake_clion_conan_template_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+cmake_clion_conan_template_SOURCE_DIR:STATIC=C:/Users/w1605/CLionProjects/my_cpp
 
 
 ########################
