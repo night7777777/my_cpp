@@ -49,7 +49,7 @@ conan_basic_setup()
 # -------------------------------------------------------
 # customized setup
 
-add_executable(cmake_clion_template main.cpp)
+add_executable(cmake_clion_template main.cpp 2022/s1/ADDS/assignment1/main.cpp)
 
 # important ! link libs to executable target
 target_link_libraries(cmake_clion_template
